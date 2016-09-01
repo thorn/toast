@@ -1,0 +1,6 @@
+/db/toast_development
+/db/toast_test
+/public/assets*
+/tmp
+*.swp
+*~
